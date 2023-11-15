@@ -1,0 +1,1 @@
+# smartcont.sol
