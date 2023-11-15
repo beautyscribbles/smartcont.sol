@@ -1,2 +1,6 @@
 ## A Solidity Smart Contract 
-- smartcont.sol
+- Storage Example
+- Subcurrency Example
+- Blockchain Basics
+- Blocks
+- Transactions
