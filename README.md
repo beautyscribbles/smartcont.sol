@@ -1,1 +1,2 @@
-# smartcont.sol
+## A Solidity Smart Contract 
+- smartcont.sol
